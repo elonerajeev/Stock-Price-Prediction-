@@ -73,8 +73,13 @@ The script outputs a graph that compares the real Google stock prices (in red) w
 Note: Stock market prediction is a complex task influenced by many factors. This project is for educational purposes and should not be used for actual trading decisions.
 
 ## Final Result 
+# For Google
 
 ![image](https://github.com/user-attachments/assets/a0c0feb1-b0e0-43bb-ac67-a5891ddf2d12)
+
+## For Tesla
+![image](https://github.com/user-attachments/assets/070a366c-cf41-45fe-8d05-f2e9f2e3d99f)
+
 
 
 
